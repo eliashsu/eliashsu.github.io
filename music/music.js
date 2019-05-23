@@ -8,16 +8,22 @@ const ap = new APlayer({
     mutex: true,
     audio: [
       {
+        name: '感谢你曾来过',
+        artist: '阿涵&Ayo97',
+        url: 'http://www.ytmp3.cn/down/56632.mp3',
+        cover: 'http://img.ytmp3.cn/image/43.jpg',
+      },
+      {
+        name: "Something Just Like This",
+        artist: 'The Chainsmokers&Coldplay',
+        url: 'http://www.ytmp3.cn/down/50463.mp3',
+        cover: 'http://img.ytmp3.cn/image/90.jpg',
+      },
+      {
         name: "你一定要幸福",
         artist: '简弘亦',
         url: 'http://www.ytmp3.cn/down/51689.mp3',
         cover: 'http://img.ytmp3.cn/image/52.jpg',
-      },
-      {
-        name: '一百万个可能(Live)',
-        artist: '摩登兄弟',
-        url: 'http://www.ytmp3.cn/down/52772.mp3',
-        cover: 'http://img.ytmp3.cn/image/53.jpg',
       },
       {
         name: 'The Rose',
